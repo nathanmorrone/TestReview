@@ -10,15 +10,11 @@
 
 package testreview;
 
-/**
- *
- * @author nathan
- */
+
 public class TestReview {
 
-    /**
-     * @param args the command line arguments
-     */
+
+    //second commit from github
     public static void main(String[] args) {
         // TODO code application logic here
     }
